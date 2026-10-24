@@ -1,0 +1,15 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+# Keep local runtime screenshots out of the source repository.
+docs/*.jpg
+docs/*.png
+
+build/
+.env
+.env.*
+!.env.example
+__pycache__/
+
+.codex/

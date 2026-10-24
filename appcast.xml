@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>In Passing</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 23 Oct 2026 23:23:08 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ericprice/in-passing/releases/download/v1.0/In-Passing-1.0.zip" length="4794363" type="application/octet-stream" sparkle:edSignature="FZF7YdbCkV8FaP+NM4uw4mlpkBbhQTWBIVXq5cuP+iDqoD622D3q27lGBMNwwid/VjFWcyEfwqv6nbV0D+QLDg=="/>
+        </item>
+    </channel>
+</rss>
